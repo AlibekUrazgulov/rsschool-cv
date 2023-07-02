@@ -1,10 +1,12 @@
+# [rsschool-cv](https://github.com/AlibekUrazgulov/rsschool-cv)
 # Alibek Urazgulov
 ## Contacts
 ---
-- Location: Astana, Kazahstan
-- Phone: +7 707 340 57 05
-- Email: alibek.urazgulov@gmail.com
-- GitHub: AlibekUrazgulov
+- **Location**: Astana, Kazahstan
+- **Phone**: +7 707 340 57 05
+- **Email**: alibek.urazgulov@gmail.com
+- **GitHub**: AlibekUrazgulov
+- **Rs-School Discord name**: Alibek#2027
 ## About Me
 ---
 I have teamwork skills. I am eager to get new knowledge in IT technologies
@@ -32,6 +34,6 @@ public static class Kata
 }
 ```
 ## Education
-- University: Eurasian National University, Computer Engineering
+- **University**: Eurasian National University, Computer Engineering
 ## English
-A2 Elementary
+**A2** Elementary
